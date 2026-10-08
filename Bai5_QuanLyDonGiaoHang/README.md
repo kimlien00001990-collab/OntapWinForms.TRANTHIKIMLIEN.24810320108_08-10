@@ -1,9 +1,9 @@
 # BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
-- **Họ và tên:** Nguyễn Văn A
-- **Mã số sinh viên:** 20123456
-- **Lớp:** 20DTHxx
+- **Họ và tên:** Trần Thị Kim Liên
+- **Mã số sinh viên:** 24810320108
+- **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** Bài 5 - Bảng điều khiển Quản lý Đơn giao hàng
 
